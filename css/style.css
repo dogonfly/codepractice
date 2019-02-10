@@ -1,15 +1,31 @@
 body {
     background-color: #f3f3f3;
+    margin:0;
 }
 
 header {
-    background-color:blue;
+    background-image: url(../img/piramido.jpg);
+    height: 20em;
+    widows: 100%;
+    
 }
+
 
 footer {
     background-color: black;
     color: beige;
+    
 }
 .main {
-    width: 600px;
+    
+    background-image:linear-gradient(red,blue);
+    
+}
+.main .first,.main .second,.main .third {
+    width: 30%;
+    
+}
+.javascript {
+    widows: 1200px;
+    height: 600px;
 }

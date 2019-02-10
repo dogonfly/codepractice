@@ -1,0 +1,22 @@
+{
+  "name": "codepractice",
+  "version": "1.0.0",
+  "description": "Practicing programming is a lot of fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogonfly/codepractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogonfly/codepractice/issues"
+  },
+  "homepage": "https://github.com/dogonfly/codepractice#readme",
+  "devDependencies": {
+    "webpack": "^4.29.3"
+  }
+}
