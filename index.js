@@ -1,8 +1,5 @@
 
-import { alert , addTest } from '../javascript/alert.js';
+import hello from '../javascript/alert.js';
 
 const jElement = document.getElementById("demo");
-jElement.innerHTML = alert;
-
-console.log(alert);
-addTest();
+jElement.innerHTML = hello();
